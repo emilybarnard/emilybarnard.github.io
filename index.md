@@ -7,7 +7,9 @@ This is my test homepage. [Test link](#)
 
 Test LaTeX:
 
-$$e^{i \pi} + 1 = 0$$
+$e^{i \pi} + 1 = 0$
+
+\(e^{i \pi} + 1 = 0\)
 
 Eius earum sit nulla minima odit. Consequatur et eaque quam sit dolorem quis minus. Magni id sed in mollitia possimus. Repellendus tempore temporibus temporibus. Est dolorem aut sequi sit quia sed.
 
