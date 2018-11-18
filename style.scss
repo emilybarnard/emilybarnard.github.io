@@ -217,7 +217,7 @@ img {
 
 .site-info {
   float: left;
-  display: relative;
+  position: relative;
 	
   a[href]:after {
 	position: absolute;
