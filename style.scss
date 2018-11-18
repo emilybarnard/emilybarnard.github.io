@@ -217,6 +217,17 @@ img {
 
 .site-info {
   float: left;
+  display: relative;
+	
+  a[href]:after {
+	position: absolute;
+	display: block;
+	content: '';
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+  }
 
   @include mobile {
     float: none;
