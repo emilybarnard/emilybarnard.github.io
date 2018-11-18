@@ -192,6 +192,14 @@ img {
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
+	
+  a {
+	text-decoration: none;
+	
+	&:hover, &:focus, &:active {
+		text-decoration: underline;
+	}
+  }
 
   @include mobile {
     text-align: center;
