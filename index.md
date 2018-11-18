@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Home
-use_math: true
 ---
 
 This is my test homepage. [Test link](#)
