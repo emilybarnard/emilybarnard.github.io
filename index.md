@@ -6,9 +6,11 @@ use_math: true
 
 This is my test homepage. [Test link](#)
 
-Test LaTeX:
+Test LaTeX, inline: $e^{i \pi} + 1 = 0$
 
-$e^{i \pi} + 1 = 0$
+Test LaTeX, on its own line:
+
+$$a^2 + b^2 = c^2$$
 
 Eius earum sit nulla minima odit. Consequatur et eaque quam sit dolorem quis minus. Magni id sed in mollitia possimus. Repellendus tempore temporibus temporibus. Est dolorem aut sequi sit quia sed.
 
