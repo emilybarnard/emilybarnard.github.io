@@ -218,6 +218,7 @@ img {
 .site-info {
   float: left;
   position: relative;
+  min-width: 20rem;
 	
   a[href]:after {
 	position: absolute;
