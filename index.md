@@ -11,6 +11,8 @@ Test LaTeX, on its own line:
 
 $$a^2 + b^2 = c^2$$
 
+## Heading 2
+
 Eius earum sit nulla minima odit. Consequatur et eaque quam sit dolorem quis minus. Magni id sed in mollitia possimus. Repellendus tempore temporibus temporibus. Est dolorem aut sequi sit quia sed.
 
 Quaerat esse repellendus in et dolores. Consequatur aperiam blanditiis et et non dolor incidunt. Atque aut ea est possimus sunt consequatur. Minima nulla voluptatem voluptatem velit. Itaque aperiam mollitia fuga nam dicta similique.
