@@ -19,3 +19,16 @@ footer .profiles {
     }
   }
 }
+
+footer .profiles ul {
+  display: block;
+  list-style: none;
+}
+
+@media screen and (min-width: 600px) {
+  footer .profiles ul {
+    -webkit-columns: 300px 2;
+    -moz-columns: 300px 2;
+    columns: 300px 2;
+  }
+}
