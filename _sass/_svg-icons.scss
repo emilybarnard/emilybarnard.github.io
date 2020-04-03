@@ -7,9 +7,15 @@
   padding: 5px;
 }
 
-a:hover, a:focus, a:active {
-  .svg-icon {
-    background-color: #333;
-    fill: #fff;
+footer .profiles {
+  a {
+    text-decoration: none;
+    
+     &:hover, &:focus, &:active {
+      .svg-icon {
+        background-color: #333;
+        fill: #fff;
+      } 
+    }
   }
 }
