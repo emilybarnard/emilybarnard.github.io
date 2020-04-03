@@ -190,6 +190,8 @@ img {
 }
 
 .masthead {
+  display: flex;
+  flex-direction: row;
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
 	
@@ -224,7 +226,7 @@ img {
 }
 
 .site-info {
-  float: left;
+  margin: auto auto auto 0;
   position: relative;
   min-width: 30rem;
 	
@@ -274,8 +276,7 @@ img {
 }
 
 nav {
-  float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin: auto 0 auto auto;
   font-family: $helveticaNeue;
   font-size: 18px;
 
