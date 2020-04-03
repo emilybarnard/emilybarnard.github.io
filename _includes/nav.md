@@ -1,2 +1,0 @@
-- [Test Link](https://google.com)
-- [Test Link #2](https://bing.com)
