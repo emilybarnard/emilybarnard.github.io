@@ -22,7 +22,7 @@ footer-links:
   github: something # your github username
   twitter: BrianDeConinck # your twitter username
   instagram: something # your instagram username
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: something # channel/<your_long_string> or user/<user-name>
   rss: true # true to display icon; nothing to remove
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
