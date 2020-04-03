@@ -34,7 +34,9 @@
 
           <div class="site-info">
             <img class="site-avatar" src="{{ site.avatar }}" alt="" />
-            <span class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></span>
+            <p class="site-name">
+              <a href="{{ site.baseurl }}/">{{ site.name }}</a>
+            </p>
             <p class="site-description">{{ site.description }}</p>
           </div>
 
@@ -42,13 +44,14 @@
             <a href="{{ site.baseurl }}/">Home</a>
             <a href="{{ site.baseurl }}/about">About</a>
           </nav>
+          
         </header>
       </div>
     </div>
 
-    <div id="main" role="main" class="container">
+    <main id="main" role="main" class="container">
       {{ content }}
-    </div>
+    </main>
 
     <div class="wrapper-footer">
       <div class="container">
