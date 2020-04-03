@@ -260,7 +260,6 @@ img {
       a {
 	      color: $darkGray;
 	      font-weight: 700;
-	      text-underline-position: under;
 	      
 	      &:hover, &:focus, &:active {
 		      color: $blue;
@@ -295,7 +294,6 @@ nav {
     color: $darkGray;
     text-align: right;
     font-weight: 700;
-    text-underline-position: under;
 
     @include mobile {
       margin: 0 10px;
