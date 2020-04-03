@@ -25,12 +25,30 @@ footer .profiles ul {
   display: block;
   list-style: none;
   
+  li {
+    display: block;
+  }
+  
   a {
     display: flex;
     flex-direction: row;
     
-    svg, span {
-      margin: auto auto auto 0.25rem; 
+    svg {
+      margin: auto 0; 
+    }
+    
+    span {
+      margin: auto 0.25rem; 
+    }
+    
+    .profile-link-text {
+      color: #000;
+    }
+    
+    &:hover, &:focus, &:active {
+      color: #000;
+      text-decoration: underline;
+      text-underline-position: under;
     }
   }
 }
