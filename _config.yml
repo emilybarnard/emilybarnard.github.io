@@ -17,24 +17,16 @@ avatar: https://avatars2.githubusercontent.com/u/6844775?s=460&v=4
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email: Hello@BrianDeConinck.com
-  facebook:
-  flickr:
-  github: 
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: BrianDeConinck
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  email: Hello@BrianDeConinck.com # your email address
+  googlescholar: something # your scholar ID
+  stackoverflow: something # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  github: something # your github username
+  twitter: BrianDeConinck # your twitter username
+  linkedin: something # your linkedin slug
+  flickr: something # your flickr username
+  instagram: something # your instagram username
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-
-
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus:
+  rss: true # true to display icon; nothing to remove
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
