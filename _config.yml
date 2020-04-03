@@ -19,11 +19,8 @@ avatar: https://avatars2.githubusercontent.com/u/6844775?s=460&v=4
 footer-links:
   email: Hello@BrianDeConinck.com # your email address
   googlescholar: something # your scholar ID
-  stackoverflow: something # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   github: something # your github username
   twitter: BrianDeConinck # your twitter username
-  linkedin: something # your linkedin slug
-  flickr: something # your flickr username
   instagram: something # your instagram username
   youtube: # channel/<your_long_string> or user/<user-name>
   rss: true # true to display icon; nothing to remove
