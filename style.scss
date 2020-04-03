@@ -256,11 +256,11 @@ img {
   cursor: pointer;
   font-family: $helveticaNeue;
   font-size: 28px;
-  letter-spacing: 1px;
 	
       a {
 	      color: $darkGray;
 	      font-weight: 700;
+	      text-underline-position: under;
 	      
 	      &:hover, &:focus, &:active {
 		      color: $blue;
