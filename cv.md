@@ -16,3 +16,11 @@ Id deleniti possimus doloremque. Dolor ea eum dolore nihil sapiente ex dolorem. 
 ## Publications
 
 {% include_relative _includes/publications.md %}
+
+## Presentations
+
+{% include_relative _includes/presentations.md %}
+
+## Teaching Experience
+
+{% include_relative _includes/classes.md %}
