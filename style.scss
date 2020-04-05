@@ -227,7 +227,6 @@ img {
 .site-info {
   margin: auto auto auto 0;
   position: relative;
-  min-width: 30rem;
   display: flex;
   flex-direction: row;
 	
@@ -243,7 +242,6 @@ img {
 
   @include mobile {
     margin: 0 auto;
-    min-width: auto;
     flex-direction: column;
   }
 }
