@@ -7,4 +7,4 @@ Or, just add your classes using Markdown syntax below.
 | Term        | Course              | Notes                         |
 | ----------- | ------------------- | ----------------------------- |
 | Spring 2020 | Fun Amazing Math II |                               |
-| Fall 2019   | Fun Amazing Math I  | **At Lorem Ipsum University** |
+| Fall 2019   | Fun Amazing Math I  | *At Lorem Ipsum University*   |
