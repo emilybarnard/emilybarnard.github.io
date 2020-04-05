@@ -310,6 +310,17 @@ nav {
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
+  position: relative;
+	
+  h2 > a[href]:after {
+	position: absolute;
+	display: block;
+	content: '';
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+  }
 }
 
 .posts > .post:last-child {
@@ -330,10 +341,18 @@ nav {
   .comments {
     margin-top: 10px;
   }
-
+	
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
+    text-decoration: underline;
+    color: $blue;
+  }
+	
+  &:hover, &:focus-within {
+	.read-more {
+	  text-decoration: none;
+	}
   }
 }
 
