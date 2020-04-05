@@ -281,12 +281,14 @@ img {
 nav {
   margin: auto 0 auto auto;
   font-family: $helveticaNeue;
-  font-size: 18px;
+  font-size: 16px;
+  text-align: right;
 
   @include mobile {
     margin: 1em auto;
     display: block;
     font-size: 16px;
+    text-align: center;
   }
 
   a {
