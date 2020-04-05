@@ -15,4 +15,4 @@ Id deleniti possimus doloremque. Dolor ea eum dolore nihil sapiente ex dolorem. 
 
 ## Publications
 
-{% include_relative publications.md %}
+{% include_relative _includes/publications.md %}
