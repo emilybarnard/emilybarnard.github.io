@@ -63,7 +63,9 @@
           
           <h2>{{ site.name }}</h2>
           
-          {% include contact.html %}
+          <div class="contact">
+            {% include_relative ../contact.md %}
+          </div>
           
           <div class="profiles">
             {% include svg-icons.html %}
