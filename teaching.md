@@ -13,3 +13,7 @@ Tempora exercitationem placeat et quia. Et beatae et eaque cum sit consequatur e
 Aut consequatur at et. Nisi non laboriosam cum. Sint voluptatem labore voluptatum est. Id tenetur voluptate atque magnam. Dignissimos dolor enim et quod.
 
 Ea doloremque ad est dolorem aperiam aut ipsa minima. Rerum aliquid illo est harum. Doloremque occaecati aut libero rerum. Voluptates cumque quos recusandae vel. Tempora hic modi numquam iure quis consequatur. Exercitationem quibusdam nostrum fuga voluptatibus in.
+
+## Classes Taught
+
+{% include_relative _includes/classes.md %}
