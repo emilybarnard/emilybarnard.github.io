@@ -243,6 +243,7 @@ img {
 
   @include mobile {
     margin: 0 auto;
+    min-width: auto;
     flex-direction: column;
   }
 }
