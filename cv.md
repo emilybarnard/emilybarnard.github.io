@@ -15,5 +15,4 @@ Id deleniti possimus doloremque. Dolor ea eum dolore nihil sapiente ex dolorem. 
 
 ## Publications
 
-1. "Really Cool Stuff." B. DeConinck, E. Barnard. *Amazing New Research* (2020).
-2. "Some Other Cool Stuff." B. DeConinck, E. Barnard. *Amazing New Research* (2020).
+{ include_relative publications.md }
