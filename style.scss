@@ -322,6 +322,11 @@ nav {
   border-bottom: 1px solid $lightGray;
   position: relative;
 	
+  h2 a {
+    color: #000;
+    text-decoration: none;
+  }
+	
   h2 > a[href]:after {
 	position: absolute;
 	display: block;
