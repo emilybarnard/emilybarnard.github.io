@@ -346,6 +346,17 @@ nav {
 footer {
   padding: 20px 0;
   text-align: left;
+	
+  .contact {
+    float: left;
+    margin-right: 4em;
+	  
+	  	@include mobile {
+		    float: none;
+		    margin-right: 0;
+		    margin-bottom: 2em;
+		  }
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
