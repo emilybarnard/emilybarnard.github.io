@@ -110,6 +110,15 @@ img {
   max-width: 100%;
 }
 
+th {
+  font-weight: bold;
+}
+
+th, td {
+  text-align: left;
+  padding: 0.25rem 0.5rem;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
