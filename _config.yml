@@ -20,21 +20,21 @@ avatar: https://avatars2.githubusercontent.com/u/6844775?s=460&v=4
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: Hello@BrianDeConinck.com # your email address
+  email: e.barnard@depaul.edu # your email address
   arxiv: math?searchtype=author&query=Barnard%2C+E # archive search string, everything after /search/ -- eg. math?searchtype=author&query=Barnard%2C+E
-  googlescholar: something # your scholar ID
-  github: something # your github username
-  twitter: BrianDeConinck # your twitter username
-  instagram: something # your instagram username
-  youtube: something # channel/<your_long_string> or user/<user-name>
-  rss: true # true to display icon; nothing to remove
+  googlescholar: Lr5Hl80AAAAJ # your scholar ID
+  github: emilybarnard # your github username
+  #twitter: BrianDeConinck # your twitter username
+  #instagram: something # your instagram username
+  #youtube: something # channel/<your_long_string> or user/<user-name>
+  #rss: true # true to display icon; nothing to remove
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+#google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+#url:
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
