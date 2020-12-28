@@ -12,8 +12,7 @@ The type of answer we expect from the first question is straightforward. No matt
 
 The type of answer we expect from the second question is a little more complicated, but roughly we would like a *rule* which tells us when and how to compare different objects. It is possible that some of our objects may not be comparable at all. For this reason, we say that a set of objects together with a rule $(\le)$ that compares some of the objects is a *partially ordered set*, or a *poset* for short.
 
-\begin{wrapfigure}{l}{0.35\linewidth}
-\centering
+<script type="text/tikz">
 \begin{tikzpicture}
  %\draw[help lines] (-3,-3) grid (5,5);
  \node [below] at (0,0) {Empty Set};
@@ -38,10 +37,7 @@ The type of answer we expect from the second question is a little more complicat
 \draw(-1,2.3) -- (0, 3);
 \draw(1,2.3) -- (0,3);
 \end{tikzpicture}
-\vspace{1em}
-\label{fig:boolean}
-
-\end{wrapfigure}
+</script>
 
 The figure above shows a picture of the poset of subsets of the set $\{1,2,3\}$. A set $A$ is "bigger" than a set $B$ if all of the elements of $A$ are also in $B$.
 
