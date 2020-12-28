@@ -15,33 +15,34 @@ The type of answer we expect from the first question is straightforward. No matt
 
 The type of answer we expect from the second question is a little more complicated, but roughly we would like a *rule* which tells us when and how to compare different objects. It is possible that some of our objects may not be comparable at all. For this reason, we say that a set of objects together with a rule $(\le)$ that compares some of the objects is a *partially ordered set*, or a *poset* for short.
 
-<script type="text/tikz">
-\begin{tikzpicture}
- %\draw[help lines] (-3,-3) grid (5,5);
- \node [below] at (0,0) {Empty Set};
-  \node [above, left] at (-2,1.01) {$\{1\}$};
-   \node [above] at (0,.85) {$\{2\}$};
-    \node [above, right] at (2,1.01) {$\{3\}$};
-    \node [above] at (-1.5,1.75) {$\{1,2\}$};
-    \node [above] at (1.5,1.75) {$\{2,3\}$};
-    \node [above] at (0,1.83) {$\{1,3\}$};
-     \node[above] at (0,3) {$\{1,2,3\}$};
-     \node[above] at (0,-2) {Figure 1. A poset.};
-\draw (0,0) --(-2,1);
-\draw (0,0) --(2,1);
-\draw (0,0) --(0,.9);
-\draw (-2,1) -- (-1.5,1.8);
-\draw (-.25,.95) -- (-1.5, 1.8);
-\draw (0.25,.95) -- (1.5, 1.8);
-\draw (2,1) -- (1.5, 1.8);
-\draw(-2,1) -- (0,1.85);
-\draw(2,1) -- (0, 1.85);
-\draw(0,3) -- (0, 2.5);
-\draw(-1,2.3) -- (0, 3);
-\draw(1,2.3) -- (0,3);
-\end{tikzpicture}
-</script>
-
+<div style="float: right; margin: 1em;">
+ <script type="text/tikz">
+  \begin{tikzpicture}
+   %\draw[help lines] (-3,-3) grid (5,5);
+   \node [below] at (0,0) {Empty Set};
+    \node [above, left] at (-2,1.01) {$\{1\}$};
+     \node [above] at (0,.85) {$\{2\}$};
+      \node [above, right] at (2,1.01) {$\{3\}$};
+      \node [above] at (-1.5,1.75) {$\{1,2\}$};
+      \node [above] at (1.5,1.75) {$\{2,3\}$};
+      \node [above] at (0,1.83) {$\{1,3\}$};
+       \node[above] at (0,3) {$\{1,2,3\}$};
+       \node[above] at (0,-2) {Figure 1. A poset.};
+  \draw (0,0) --(-2,1);
+  \draw (0,0) --(2,1);
+  \draw (0,0) --(0,.9);
+  \draw (-2,1) -- (-1.5,1.8);
+  \draw (-.25,.95) -- (-1.5, 1.8);
+  \draw (0.25,.95) -- (1.5, 1.8);
+  \draw (2,1) -- (1.5, 1.8);
+  \draw(-2,1) -- (0,1.85);
+  \draw(2,1) -- (0, 1.85);
+  \draw(0,3) -- (0, 2.5);
+  \draw(-1,2.3) -- (0, 3);
+  \draw(1,2.3) -- (0,3);
+  \end{tikzpicture}
+ </script>
+</div>
 The figure above shows a picture of the poset of subsets of the set $\{1,2,3\}$. A set $A$ is "bigger" than a set $B$ if all of the elements of $A$ are also in $B$.
 
 I am particularly interested in posets that come "from nature." For me, a poset is "from nature" if it grows from the study of some mathematical object, be it a polytope or a category of modules. A poset "from nature" could be a poset whose Hasse diagram (or underlying graph) is the one-skeleton of a polytope; or a poset whose elements are collections of certain subcategories. My research program leverages the geometric and algebraic structure of such posets to answer combinatorial questions.
