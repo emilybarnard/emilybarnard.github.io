@@ -392,10 +392,11 @@ nav {
 	
 	&.feature {
 	  border-bottom: none;
-    	  border-left: 1em solid $depaulBlue;	
+    	  border-left: 0.25em solid $depaulBlue;	
 	
 		@include mobile {
-		  border-bottom: 0.5em solid $depaulBlue;
+		  border-bottom: 0.25em solid $depaulBlue;
+		  border-left: none;
 		}
 		
 		
