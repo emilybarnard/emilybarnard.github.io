@@ -215,7 +215,7 @@ th, td {
   display: flex;
   flex-direction: row;
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 0.5em solid $depaulBlue;
 	
   a {
 	text-decoration: none;
@@ -384,32 +384,30 @@ nav {
 }
 
 .right {
-  margin: 1em 0 1em 0;
-  padding: 1em 0 1em 0;
+  margin: 0.25em 1em 0.25em 1em;
+  padding: 0.25em 1em 0.25em 1em;
+  width: auto;
+  max-width: 40%;
+  float: right;
 	
 	.feature {
-	  border-bottom: 0.5em solid #005c96;
+	  border-bottom: none;
+    	  border-left: 1em solid $depaulBlue;	
+	
+		@include mobile {
+		  border-bottom: 0.5em solid $depaulBlue;
+		}
 	}
-}
-
-@media screen and (min-width: 600px) {
-  .right {
-    margin: 0.25em 1em 0.25em 1em;
-    padding: 0.25em 1em 0.25em 1em;
-    width: auto;
-    max-width: 40%;
-    float: right;
-	  
-	  .feature {
-	    border-bottom: none;
-	    border-left: 1em solid #005c96;	  
-	  }
-  }
+	
+	@include mobile {
+	  margin: 1em 0 1em 0;
+	  padding: 1em 0 1em 0;
+	}
 }
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 0.5em solid #005c96;
+  border-top: 0.5em solid $depaulBlue;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
 }
