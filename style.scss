@@ -100,6 +100,10 @@ ul {
 
 ol {
   list-style-type: decimal;
+	
+	li {
+		margin-bottom: 0.1rem;	
+	}
 }
 
 ol ul, ul ol, ul ul, ol ol {
