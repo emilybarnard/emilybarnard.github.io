@@ -15,7 +15,7 @@ The type of answer we expect from the first question is straightforward. No matt
 
 The type of answer we expect from the second question is a little more complicated, but roughly we would like a *rule* which tells us when and how to compare different objects. It is possible that some of our objects may not be comparable at all. For this reason, we say that a set of objects together with a rule $(\le)$ that compares some of the objects is a *partially ordered set*, or a *poset* for short.
 
-<div style="float: right; margin: 1em;">
+<div class="right">
  <script type="text/tikz">
   \begin{tikzpicture}
    %\draw[help lines] (-3,-3) grid (5,5);
