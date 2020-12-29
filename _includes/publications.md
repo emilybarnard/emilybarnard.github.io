@@ -4,7 +4,7 @@ Paste the generated Markdown below, and edit as needed.
 Or, just add your publications using Markdown syntax below.
 -->
 
-## Publications and Peer Reviewed Conference Proceedings
+### Publications and Peer Reviewed Conference Proceedings
 
 1. “Universal geometric coefficients for the four-punctured sphere.” (with E. Meehan, N. Reading, and S. Viel.) *DMTCS Proceedings* **FPSAC** 2015
 2. “Coxeter-biCatalan Combinatorics.” (with N. Reading) *DMTCS Proceedings* **FPSAC** 2015 
@@ -20,7 +20,7 @@ Or, just add your publications using Markdown syntax below.
   [arxiv: 1605.03524]: https://arxiv.org/abs/1605.03524
   [arxiv: 1602.03448]: https://arxiv.org/abs/1602.03448
   
-## Preprints
+### Preprints
 
 1. 
 
