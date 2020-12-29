@@ -4,8 +4,11 @@ title: Research
 permalink: /research/
 ---
 
+## Research Interests
 
+Algebraic combinatorics, particularly lattice theory in connection with Coxeter groups and representation theory.
 
+## Summary for a General Audience
 
 I am an algebraic combinatorialist, which means I organize discrete data in ways that highlight useful structures or patterns. Most often the "data" I consider consists of a family of objects that appear in vastly disconnected fields of mathematics or physics. My research begins with two superficially simple questions:
 - In each family, how many objects are there?
