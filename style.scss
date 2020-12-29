@@ -386,18 +386,24 @@ nav {
 .right {
   margin: 1em 0 1em 0;
   padding: 1em 0 1em 0;
-  border-bottom: 0.5em solid #005c96;
+	
+	.feature {
+	  border-bottom: 0.5em solid #005c96;
+	}
 }
 
 @media screen and (min-width: 600px) {
   .right {
     margin: 0.25em 1em 0.25em 1em;
     padding: 0.25em 1em 0.25em 1em;
-    border-bottom: none;
-    border-left: 1em solid #005c96;
     width: auto;
     max-width: 40%;
     float: right;
+	  
+	  .feature {
+	    border-bottom: none;
+	    border-left: 1em solid #005c96;	  
+	  }
   }
 }
 
