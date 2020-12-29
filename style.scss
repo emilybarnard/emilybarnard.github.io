@@ -384,19 +384,21 @@ nav {
 }
 
 .right {
-  margin: 0.25em 1em 0.25em 1em;
-  padding: 0.25em 1em 0.25em 1em;
+  margin: 0.15rem 1em 0.15rem 1em;
+  padding: 0.15rem 1em 0.15rem 1em;
   width: auto;
   max-width: 40%;
   float: right;
 	
-	.feature {
+	&.feature {
 	  border-bottom: none;
     	  border-left: 1em solid $depaulBlue;	
 	
 		@include mobile {
 		  border-bottom: 0.5em solid $depaulBlue;
 		}
+		
+		
 	}
 	
 	@include mobile {
