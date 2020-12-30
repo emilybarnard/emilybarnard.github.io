@@ -50,7 +50,7 @@ Figure 1 shows a picture of the poset of subsets of the set $\{1,2,3\}$. A set $
 
 I am particularly interested in posets that come "from nature." For me, a poset is "from nature" if it grows from the study of some mathematical object, be it a polytope or a category of modules. A poset "from nature" could be a poset whose Hasse diagram (or underlying graph) is the one-skeleton of a polytope; or a poset whose elements are collections of certain subcategories. My research program leverages the geometric and algebraic structure of such posets to answer combinatorial questions.
 
-## Publications
+<!-- Publications -->
 
 <div class="right feature">
  <ul class="profiles-links">
