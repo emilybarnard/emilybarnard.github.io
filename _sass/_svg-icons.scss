@@ -7,7 +7,7 @@
   padding: 5px;
 }
 
-footer .profiles {
+footer .profiles, .profiles-links {
   a {
     text-decoration: none;
     text-align: left;
@@ -21,7 +21,7 @@ footer .profiles {
   }
 }
 
-footer .profiles ul {
+footer .profiles ul, .profiles-links {
   display: block;
   list-style: none;
   margin-left: 0;
