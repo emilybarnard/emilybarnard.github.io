@@ -12,9 +12,9 @@ Or, just add your classes using Markdown syntax below.
 | Winter 2021 | MAT 620 | Geometry                                   |
 | Fall 2020   | MAT 397 | Mathematical Pedagogy: Theory and Practice |
 | Fall 2020   | MAT 680 | Real Analysis                              |
-| Spring 2020 | MAT XXX | Fun Amazing Math II                        |
+| Spring 2020 | MAT 215 | Introduction to Mathematical Reasoning     |
+| Fall 2019   | MAT 150 | Calculus I                                 |
 | Fall 2019   | MAT 320 | Geometry I                                 |
-| Fall 2019   | MAT XXX | Fun Amazing Math I                         |
 
 ### At Other Institutions
 
