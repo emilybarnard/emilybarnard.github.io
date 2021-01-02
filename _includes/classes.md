@@ -5,7 +5,6 @@ Or, just add your classes using Markdown syntax below.
 -->
 
 ### At DePaul University
-
 | Term        | Number  | Course                                     |
 | ----------- | ------- | ------------------------------------------ |
 | Winter 2021 | MAT 398 | Senior Capstone Seminar                    |
@@ -17,8 +16,7 @@ Or, just add your classes using Markdown syntax below.
 | Fall 2019   | MAT 320 | Geometry I                                 |
 
 ### At Other Institutions
-
-|                |                                                                             |
+| Years          | Courses                                                                     |
 |:---------------|:----------------------------------------------------------------------------|
 | 2017 – 2019    | **Northeastern University**, Boston, MA                                     |
 |                | \(3\) Combinatorial Mathematics (for math majors)                           |
