@@ -150,6 +150,13 @@ th, td {
   color: $gray;
 }
 
+.entry-meta {
+  position: inline-block;
+  background: $gray;
+  padding: 0.1rem;
+  border-radius: 50%;
+}
+
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
