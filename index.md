@@ -11,7 +11,9 @@ Algebraic combinatorics, particularly lattice theory in connection with Coxeter 
 
 ## Teaching
 
-**Winter 2021:** MAT 398 Senior Capstone Seminar, MAT 620 Geometry.
+**Winter 2021:** 
+- MAT 398 Senior Capstone Seminar
+- MAT 620 Geometry
 
 [More information about my teaching.](/teaching/)
 
