@@ -22,7 +22,7 @@ Or, just add your classes using Markdown syntax below.
 
 | Term        | Number  | Course                                     |
 | ----------- | ------- | ------------------------------------------ |
-| Spring 2021 | MAT 152 | Calculus III                               |
+| Spring 2021 | MAT 262 | Calculus III                               |
 | Spring 2021 | MAT 303 | Theory of Numbers                          |
 | Winter 2021 | MAT 398 | Senior Capstone Seminar                    |
 | Winter 2021 | MAT 620 | Geometry                                   |
