@@ -10,6 +10,10 @@ title: Blog
     <article class="post">
 
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      
+      {% if post.category %}
+        <span class="entry-meta">{{ post.category }}</span>
+      {% endif %}
 
       <div class="entry">
         {{ post.excerpt }}
