@@ -23,8 +23,8 @@ footer-links:
   email: e.barnard@depaul.edu # your email address
   arxiv: math?searchtype=author&query=Barnard%2C+E # archive search string, everything after /search/ -- eg. math?searchtype=author&query=Barnard%2C+E
   googlescholar: Lr5Hl80AAAAJ # your scholar ID
-  github: emilybarnard # your github username
-  #twitter: BrianDeConinck # your twitter username
+  #github: emilybarnard # your github username
+  #twitter:  # your twitter username
   #instagram: something # your instagram username
   #youtube: something # channel/<your_long_string> or user/<user-name>
   #rss: true # true to display icon; nothing to remove
