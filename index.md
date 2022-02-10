@@ -3,19 +3,9 @@ layout: page
 title: Home
 ---
 
-## Research Interests
+I am an Assistant Professor at [DePaul University](https://depaul.edu) in the [Department of Mathematical Sciences](https://csh.depaul.edu/academics/mathematical-sciences/Pages/default.aspx). My research interests are in algebraic combinatorics, which means I organize discrete data in ways that highlight useful structures or patterns. I am particularly interested in lattice theory in connection with Coxeter groups and representation theory. 
 
-Algebraic combinatorics, particularly lattice theory in connection with Coxeter groups and representation theory. 
-
-[Learn more about my research.](/research/)
-
-## Teaching
-
-**Winter 2022:** 
-- MAT 215 Introduction to Mathematical Reasoning
-- MAT 302 Combinatorics
-
-[More information about my teaching.](/teaching/)
+[Learn more about my research](/research/) and see [more information about my teaching at DePaul](/teaching/).
 
 ## Employment
 
