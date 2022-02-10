@@ -116,7 +116,8 @@ Or, just add your publications using Markdown syntax below.
 ## Preprints
 
 1. "Pairwise Compatibility for 2-Simple Minded Collections II: Preprojective Algebras and Semibrick Pairs of Full Rank." (with E. Hanson). Preprint [arxiv: 2010.08645][].
-2. "Cambrian combinatorics on quiver representations (type A)." (with E. Gunawan, E. Meehan, and R. Schiffler)
+2. "Cambrian combinatorics on quiver representations (type A)." (with E. Gunawan, E. Meehan, and R. Schiffler). Preprint [arXiv:1912.02840][].
 {: reversed="reversed"}
 
   [arxiv: 2010.08645]: https://arxiv.org/abs/2010.08645
+  [arXiv:1912.02840]: https://arxiv.org/abs/1912.02840
