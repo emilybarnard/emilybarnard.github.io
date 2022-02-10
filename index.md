@@ -6,6 +6,7 @@ title: Home
 ## Research Interests
 
 Algebraic combinatorics, particularly lattice theory in connection with Coxeter groups and representation theory. 
+
 [Learn more about my research.](/research/)
 
 ## Teaching
@@ -13,6 +14,7 @@ Algebraic combinatorics, particularly lattice theory in connection with Coxeter 
 **Winter 2022:** 
 - MAT 215 Introduction to Mathematical Reasoning
 - MAT 302 Combinatorics
+
 [More information about my teaching.](/teaching/)
 
 ## Employment
