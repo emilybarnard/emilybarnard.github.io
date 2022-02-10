@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-I am an Assistant Professor at [DePaul University](https://depaul.edu) in the [Department of Mathematical Sciences](https://csh.depaul.edu/academics/mathematical-sciences/Pages/default.aspx). My research interests are in algebraic combinatorics, which means I organize discrete data in ways that highlight useful structures or patterns. I am particularly interested in lattice theory in connection with Coxeter groups and representation theory. 
+I am an Assistant Professor at [DePaul University](https://depaul.edu) in the [Department of Mathematical Sciences](https://csh.depaul.edu/academics/mathematical-sciences/Pages/default.aspx), located in Chicago, Illinois. My research interests are in algebraic combinatorics, which means I organize discrete data in ways that highlight useful structures or patterns. I am particularly interested in lattice theory in connection with Coxeter groups and representation theory. 
 
 [Learn more about my research](/research/) and see [more information about my teaching at DePaul](/teaching/).
 
