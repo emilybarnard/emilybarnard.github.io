@@ -22,6 +22,13 @@ Or, just add your classes using Markdown syntax below.
 
 | Term        | Number  | Course                                     |
 | ----------- | ------- | ------------------------------------------ |
+| Spring 2022 | MAT 140 | Discrete Mathematics I                     |
+| Spring 2022 | MAT 150 | Calculus I                                 |
+| Winter 2022 | MAT 215 | Introduction to Mathematical Reasoning     |
+| Winter 2022 | MAT 302 | Combinatorics                              |
+| Fall 2021   | MAT 397 | Mathematical Pedagogy: Theory and Practice |
+| Fall 2021   | MAT 680 | Real Analysis                              |
+| Summer 2021 | MAT 156 | Summer Calculus                            |
 | Spring 2021 | MAT 262 | Calculus III                               |
 | Spring 2021 | MAT 303 | Theory of Numbers                          |
 | Winter 2021 | MAT 398 | Senior Capstone Seminar                    |
