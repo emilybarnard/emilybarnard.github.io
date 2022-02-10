@@ -231,10 +231,8 @@ th, td {
 }
 
 .masthead {
-  display: flex;
-  flex-direction: row;
   padding: 2rem 0;
-  border-bottom: 0.1rem solid $lightGray;
+  border-bottom: 0.1rem solid #ccc;
 	
   a {
 	text-decoration: none;
