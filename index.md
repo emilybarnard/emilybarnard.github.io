@@ -11,9 +11,9 @@ Algebraic combinatorics, particularly lattice theory in connection with Coxeter 
 
 ## Teaching
 
-**Winter 2021:** 
-- MAT 398 Senior Capstone Seminar
-- MAT 620 Geometry
+**Winter 2022:** 
+- MAT 215 Introduction to Mathematical Reasoning
+- MAT 302 Combinatorics
 
 [More information about my teaching.](/teaching/)
 
