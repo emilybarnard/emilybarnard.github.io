@@ -20,7 +20,7 @@ Or, just add your classes using Markdown syntax below.
 
 ### At DePaul University
 
-Students can [view their class websites via D2L](https://d2l.depaul.edu/).
+Students can [view their class websites on D2L](https://d2l.depaul.edu/).
 
 | Term        | Number  | Course                                     |
 | ----------- | ------- | ------------------------------------------ |
