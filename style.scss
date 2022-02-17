@@ -306,7 +306,7 @@ th, td {
 .site-description {
   margin: 5px 0 0 0;
   color: $black;
-  font-size: 16px;
+  font-size: 18px;
 
   @include mobile {
     margin: 3px 0;
@@ -319,7 +319,8 @@ nav {
   font-size: 16px;
   text-align: right; */
 
-  margin: 1em 0 auto auto;
+  margin: auto;
+  padding: 0.5em;
   display: block;
   font-size: 16px;
   text-align: left;
