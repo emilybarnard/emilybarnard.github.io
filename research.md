@@ -51,8 +51,9 @@ Figure 1 shows a picture of the poset of subsets of the set $\{1,2,3\}$. A set $
 I am particularly interested in posets that come "from nature." For me, a poset is "from nature" if it grows from the study of some mathematical object, be it a polytope or a category of modules. A poset "from nature" could be a poset whose Hasse diagram (or underlying graph) is the one-skeleton of a polytope; or a poset whose elements are collections of certain subcategories. My research program leverages the geometric and algebraic structure of such posets to answer combinatorial questions.
 
 <!-- Publications -->
+## Publications and Peer Reviewed Conference Proceedings
 
-<div class="right feature">
+<div class="feature">
  <ul class="profiles-links">
    {% if site.footer-links.arxiv %}
    <li>
@@ -90,8 +91,6 @@ Convert your LaTeX publications list from LaTeX to Markdown syntax: https://pand
 Paste the generated Markdown below, and edit as needed.
 Or, just add your publications using Markdown syntax below.
 -->
-
-## Publications and Peer Reviewed Conference Proceedings
 
 11. "Dynamical combinatorics and torsion classes." (with G. Todorov and S. Zhu) *J. Pure and Applied Algebra*, 25 (2021), no. 9. [arxiv: 1911.10712][].
 10. "Lattices from graph associahedra and subalgebras of the Malvenuto–Reutenauer algebra." (with T. McConville) *Algebra universalis* 82 (2021), no. 2. [arxiv: 1808.05670][].
