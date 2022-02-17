@@ -50,6 +50,9 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
+  display: inline-block;
+  border-bottom: solid 0.25em #ccc;
+	
   a {
     color: inherit;
   }
@@ -398,6 +401,17 @@ nav {
 	  text-decoration: none;
 	}
   }
+}
+
+.feature {
+  border-left: 0.25em solid $depaulBlue;
+  padding: 0.5em;
+  margin: 0.25em;
+	
+	.profiles-links li {
+	  float: left;
+	  margin: 0.25em;
+	}
 }
 
 .right {
