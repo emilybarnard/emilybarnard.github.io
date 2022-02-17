@@ -4,6 +4,12 @@ title: Research
 permalink: /research/
 ---
 
+Skip to...
+- [Research Interests](#research-interests)
+- [Research Narrative](#research-narrative)
+- [Publications and Peer Reviewed Conference Proceedings](#publications-and-peer-reviewed-conference-proceedings
+- [Preprints](#preprints)
+
 ## Research Interests
 
 Algebraic combinatorics, particularly lattice theory in connection with Coxeter groups and representation theory.
