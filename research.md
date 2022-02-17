@@ -52,7 +52,7 @@ I am particularly interested in posets that come "from nature." For me, a poset 
 
 <!-- Publications -->
 ## Publications and Peer Reviewed Conference Proceedings
-You can also find my publications on the [arXiv](https://arxiv.org/search/math?searchtype=author&query=Barnard%2C+E) and [Google Scholar]https://scholar.google.com/citations?user=Lr5Hl80AAAAJ).
+You can also find my publications on the [arXiv](https://arxiv.org/search/math?searchtype=author&query=Barnard%2C+E) and [Google Scholar](https://scholar.google.com/citations?user=Lr5Hl80AAAAJ).
 
 <!-- 
 Convert your LaTeX publications list from LaTeX to Markdown syntax: https://pandoc.org/try/?text=&from=latex&to=gfm
