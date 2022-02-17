@@ -7,7 +7,7 @@ permalink: /research/
 Skip to...
 - [Research Interests](#research-interests)
 - [Research Narrative](#research-narrative)
-- [Publications and Peer Reviewed Conference Proceedings](#publications-and-peer-reviewed-conference-proceedings
+- [Publications and Peer Reviewed Conference Proceedings](#publications-and-peer-reviewed-conference-proceedings)
 - [Preprints](#preprints)
 
 ## Research Interests
