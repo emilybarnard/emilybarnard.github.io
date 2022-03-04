@@ -288,6 +288,10 @@ th, td {
 
 .site-info-text {
   margin: auto auto auto 1.5rem;
+	
+  @include mobile {
+	margin: auto;	
+  }
 }
 
 .site-name {
