@@ -43,13 +43,12 @@ Students can [view their class websites on D2L](https://d2l.depaul.edu/).
 
 ### At Other Institutions
 
-| Years          | Courses                                                                     |
-|:---------------|:----------------------------------------------------------------------------|
-| 2017 – 2019    | **Northeastern University**, Boston, MA                                     |
-|                | \(3\) Combinatorial Mathematics (for math majors)                           |
-|                | \(2\) Introduction to Mathematical Reasoning (for math majors) |
-|                | \(1\) Calculus II (for science and engineering majors)                      |
-| 2014 – 2016    | **North Carolina State University**, Raleigh, NC                            |
-|                | \(3\) Finite Mathematics                                                    |
-|                | \(2\) Calculus I (for science and engineering majors)                       |
-|                | \(1\) Calculus I (for life and management sciences) 
+* 2017 - 2019: **Northeastern University**, Boston, MA
+  - Combinatorial Mathematics (for math majors)
+  - Introduction to Mathematical Reasoning (for math majors)
+  - Calculus II (for science and engineering majors)
+* 2014 - 2016: **North Carolina State University**, Raleigh, NC
+  - Finite Mathematics
+  - Calculus I (for science and engineering majors)
+  - Calculus I (for life and management sciences)
+
