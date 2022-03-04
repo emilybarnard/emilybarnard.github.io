@@ -21,7 +21,7 @@ Northeastern University, Boston, MA
 - **2017**  
 Ph.D., Mathematics  
 Thesis: *The Canonical Join Representation in Algebraic Combinatorics*  
-Advisor: Nathan Reading  
+Advisor: [Nathan Reading](https://nreadin.math.ncsu.edu/)
 North Carolina State University, Raleigh, NC
 - **2010**  
 B.A., Mathematics (with honors), Economics  
