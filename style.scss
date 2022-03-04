@@ -90,9 +90,9 @@ p {
 a {
   color: $blue;
   cursor: pointer;
+  text-underline-position: under;
   &:hover, &:focus, &:active {
-    color: $blue;
-    text-decoration: none;
+    color: $depaulBlue;
   }
 }
 
