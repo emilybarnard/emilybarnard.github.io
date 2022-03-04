@@ -243,6 +243,7 @@ th, td {
 	
 	&:hover, &:focus, &:active {
 		text-decoration: underline;
+		text-underline-position: under;
 	}
   }
 
@@ -340,6 +341,10 @@ nav {
 	text-align: center;
 	border-left: none;
 	border-top: solid 0.25em #ccc;
+	border-bottom: solid 0.25em #ccc;
+	width: 100%;
+    	margin: 2em 0 0 0;
+    	font-size: 1.15em;
   }
 
   a {
