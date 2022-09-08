@@ -14,7 +14,7 @@ After years of experiencing my own math-anxiety, I frame my class architecture a
 
 Students can [view their class websites on D2L](https://d2l.depaul.edu/). Course numbers link to course descriptions from the DePaul academic catalog.
 
-| Term        | Course Number                                                | Course                                     |
+| Term        | Course Number                                                | Course Name                                |
 | ----------- | ------------------------------------------------------------ | ------------------------------------------ |
 | Autumn 2022 | [MAT 150](https://catalog.depaul.edu/search/?search=mat+150) | Calculus I                                 |
 | Autumn 2022 | [MAT 335](https://catalog.depaul.edu/search/?search=mat+335) | Real Analysis I                            |
