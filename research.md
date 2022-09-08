@@ -66,6 +66,7 @@ Paste the generated Markdown below, and edit as needed.
 Or, just add your publications using Markdown syntax below.
 -->
 
+12. "Pairwise Compatibility for 2-Simple Minded Collections II: Preprojective Algebras and Semibrick Pairs of Full Rank." (with E.J. Hanson) *Ann. Comb.* (2022). [arxiv: 2010.08645][].
 11. "Dynamical combinatorics and torsion classes." (with G. Todorov and S. Zhu) *J. Pure and Applied Algebra*, 25 (2021), no. 9. [arxiv: 1911.10712][].
 10. "Lattices from graph associahedra and subalgebras of the Malvenuto–Reutenauer algebra." (with T. McConville) *Algebra universalis* 82 (2021), no. 2. [arxiv: 1808.05670][].
 9. "The canonical join complex of the Tamari lattice." *J. Combinatorial Theory.* Series A (2020), 174.
@@ -79,6 +80,7 @@ Or, just add your publications using Markdown syntax below.
 1. “Universal geometric coefficients for the four-punctured sphere.” (with E. Meehan, N. Reading, and S. Viel.) *DMTCS Proceedings* **FPSAC** 2015
 {: reversed="reversed"}
 
+  [arxiv: 2010.08645]: https://arxiv.org/abs/2010.08645
   [arxiv: 1911.10712]: https://arxiv.org/abs/1911.10712
   [arxiv: 1808.05670]: https://arxiv.org/abs/1808.05670
   [arxiv: 1610.05137]: https://arxiv.org/abs/1610.05137
@@ -88,9 +90,7 @@ Or, just add your publications using Markdown syntax below.
   
 ## Preprints
 
-1. "Pairwise Compatibility for 2-Simple Minded Collections II: Preprojective Algebras and Semibrick Pairs of Full Rank." (with E. Hanson). Preprint [arxiv: 2010.08645][].
-2. "Cambrian combinatorics on quiver representations (type A)." (with E. Gunawan, E. Meehan, and R. Schiffler). Preprint [arXiv:1912.02840][].
+1. "Cambrian combinatorics on quiver representations (type A)." (with E. Gunawan, E. Meehan, and R. Schiffler). Preprint [arXiv:1912.02840][].
 {: reversed="reversed"}
 
-  [arxiv: 2010.08645]: https://arxiv.org/abs/2010.08645
   [arXiv:1912.02840]: https://arxiv.org/abs/1912.02840
