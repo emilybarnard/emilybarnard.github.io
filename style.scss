@@ -274,7 +274,7 @@ tr:nth-child(even) {
   display: flex;
   flex-direction: row;
 	
-  a[href]:after {
+  /*a[href]:after {
 	position: absolute;
 	display: block;
 	content: '';
@@ -282,7 +282,7 @@ tr:nth-child(even) {
 	bottom: 0;
 	left: 0;
 	right: 0;
-  }
+  }*/
 
   @include mobile {
     margin: 0 auto;
