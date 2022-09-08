@@ -78,7 +78,6 @@ Or, just add your publications using Markdown syntax below.
 3. “Universal geometric coefficients for the four-punctured sphere.” (with E. Meehan, N. Reading, and S. Viel.) *Ann. Comb.* 22 (2018), no. 1, 1–44. [arxiv: 1602.03448][].
 2. “Coxeter-biCatalan Combinatorics.” (with N. Reading) *DMTCS Proceedings* **FPSAC** 2015 
 1. “Universal geometric coefficients for the four-punctured sphere.” (with E. Meehan, N. Reading, and S. Viel.) *DMTCS Proceedings* **FPSAC** 2015
-{: reversed="reversed"}
 
   [arxiv: 2010.08645]: https://arxiv.org/abs/2010.08645
   [arxiv: 1911.10712]: https://arxiv.org/abs/1911.10712
