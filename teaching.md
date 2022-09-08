@@ -12,28 +12,28 @@ After years of experiencing my own math-anxiety, I frame my class architecture a
 
 ## Courses taught at DePaul University
 
-Students can [view their class websites on D2L](https://d2l.depaul.edu/).
+Students can [view their class websites on D2L](https://d2l.depaul.edu/). Course numbers link to course descriptions from the DePaul academic catalog.
 
-| Term        | Number  | Course                                     |
-| ----------- | ------- | ------------------------------------------ |
-| Autumn 2022 | MAT 150 | Calculus I                                 |
-| Autumn 2022 | MAT 335 | Real Analysis I                            |
-| Spring 2022 | MAT 140 | Discrete Mathematics I                     |
-| Spring 2022 | MAT 150 | Calculus I                                 |
-| Winter 2022 | MAT 215 | Introduction to Mathematical Reasoning     |
-| Winter 2022 | MAT 302 | Combinatorics                              |
-| Autumn 2021 | MAT 397 | Mathematical Pedagogy: Theory and Practice |
-| Autumn 2021 | MAT 680 | Real Analysis                              |
-| Summer 2021 | MAT 156 | Summer Calculus                            |
-| Spring 2021 | MAT 262 | Calculus III                               |
-| Spring 2021 | MAT 303 | Theory of Numbers                          |
-| Winter 2021 | MAT 398 | Senior Capstone Seminar                    |
-| Winter 2021 | MAT 620 | Geometry                                   |
-| Autumn 2020 | MAT 397 | Mathematical Pedagogy: Theory and Practice |
-| Autumn 2020 | MAT 680 | Real Analysis                              |
-| Spring 2020 | MAT 215 | Introduction to Mathematical Reasoning     |
-| Autumn 2019 | MAT 150 | Calculus I                                 |
-| Autumn 2019 | MAT 320 | Geometry I                                 |
+| Term        | Course Number                                                | Course                                     |
+| ----------- | ------------------------------------------------------------ | ------------------------------------------ |
+| Autumn 2022 | [MAT 150](https://catalog.depaul.edu/search/?search=mat+150) | Calculus I                                 |
+| Autumn 2022 | [MAT 335](https://catalog.depaul.edu/search/?search=mat+335) | Real Analysis I                            |
+| Spring 2022 | [MAT 140](https://catalog.depaul.edu/search/?search=mat+140) | Discrete Mathematics I                     |
+| Spring 2022 | [MAT 150](https://catalog.depaul.edu/search/?search=mat+150) | Calculus I                                 |
+| Winter 2022 | [MAT 215](https://catalog.depaul.edu/search/?search=mat+215) | Introduction to Mathematical Reasoning     |
+| Winter 2022 | [MAT 302](https://catalog.depaul.edu/search/?search=mat+302) | Combinatorics                              |
+| Autumn 2021 | [MAT 397](https://catalog.depaul.edu/search/?search=mat+397) | Mathematical Pedagogy: Theory and Practice |
+| Autumn 2021 | [MAT 680](https://catalog.depaul.edu/search/?search=mat+680) | Real Analysis                              |
+| Summer 2021 | [MAT 156](https://catalog.depaul.edu/search/?search=mat+156) | Summer Calculus                            |
+| Spring 2021 | [MAT 262](https://catalog.depaul.edu/search/?search=mat+262) | Calculus III                               |
+| Spring 2021 | [MAT 303](https://catalog.depaul.edu/search/?search=mat+303) | Theory of Numbers                          |
+| Winter 2021 | [MAT 398](https://catalog.depaul.edu/search/?search=mat+398) | Senior Capstone Seminar                    |
+| Winter 2021 | [MAT 620](https://catalog.depaul.edu/search/?search=mat+620) | Geometry                                   |
+| Autumn 2020 | [MAT 397](https://catalog.depaul.edu/search/?search=mat+397) | Mathematical Pedagogy: Theory and Practice |
+| Autumn 2020 | [MAT 680](https://catalog.depaul.edu/search/?search=mat+680) | Real Analysis                              |
+| Spring 2020 | [MAT 215](https://catalog.depaul.edu/search/?search=mat+215) | Introduction to Mathematical Reasoning     |
+| Autumn 2019 | [MAT 150](https://catalog.depaul.edu/search/?search=mat+150) | Calculus I                                 |
+| Autumn 2019 | [MAT 320](https://catalog.depaul.edu/search/?search=mat+320) | Geometry I                                 |
 
 ### Courses taught at other institutions
 
