@@ -35,7 +35,7 @@ Students can [view their class websites on D2L](https://d2l.depaul.edu/). Course
 | Autumn 2019 | [MAT 150](https://catalog.depaul.edu/search/?search=mat+150) | Calculus I                                 |
 | Autumn 2019 | [MAT 320](https://catalog.depaul.edu/search/?search=mat+320) | Geometry I                                 |
 
-### Courses taught at other institutions
+## Courses taught at other institutions
 
 * 2017 - 2019: **Northeastern University**, Boston, MA
   - Combinatorial Mathematics (for math majors)
