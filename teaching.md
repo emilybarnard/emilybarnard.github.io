@@ -41,7 +41,7 @@ Students can [view their class websites on D2L](https://d2l.depaul.edu/). Course
   - Combinatorial Mathematics (for math majors)
   - Introduction to Mathematical Reasoning (for math majors)
   - Calculus II (for science and engineering majors)
-* 2014 - 2016: **North Carolina State University**, Raleigh, NC
+* 2014 - 2017: **North Carolina State University**, Raleigh, NC
   - Finite Mathematics
   - Calculus I (for science and engineering majors)
   - Calculus I (for life and management sciences)
