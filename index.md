@@ -9,20 +9,16 @@ I am an Assistant Professor at [DePaul University](https://depaul.edu) in the [D
 
 ## Employment
 
-- **2019 to Present**  
-Assistant Professor  
-DePaul University, Chicago, IL
-- **2017 to 2019**  
-Zelevinsky Research Instructor  
-Northeastern University, Boston, MA
+- **Assistant Professor - DePaul University**  
+2019 to Present - Chicago, IL
+- **Zelevinsky Research Instructor - Northeastern University**  
+2017 to 2019 - Boston, MA
 
 ## Education
 
-- **2017**  
-Ph.D., Mathematics  
+- **Ph.D., Mathematics - North Carolina State University**  
+2017 - Raleigh, NC  
 Thesis: *The Canonical Join Representation in Algebraic Combinatorics*  
 Advisor: [Nathan Reading](https://nreadin.math.ncsu.edu/)  
-North Carolina State University, Raleigh, NC
-- **2010**  
-B.A., Mathematics (with honors), Economics  
-Northwestern University, Evanston, IL
+- **B.A., Mathematics (with honors), Economics - Northwestern University**  
+2010 - Evanston, IL
