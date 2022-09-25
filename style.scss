@@ -301,7 +301,7 @@ tr:nth-child(even) {
   font-family: $helveticaNeue;
   font-size: 28px;
   font-weight: 700;
-  line-height: 1.7;
+  line-height: 1;
 	
       a {
 	      color: $darkGray;
@@ -314,7 +314,7 @@ tr:nth-child(even) {
 }
 
 .site-description {
-  margin: 0.5rem 0 0 0;
+  margin: 0 0 0 0;
   color: $black;
   font-size: 18px;
 
