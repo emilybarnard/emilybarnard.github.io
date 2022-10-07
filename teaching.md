@@ -12,7 +12,7 @@ After years of experiencing my own math-anxiety, I frame my class architecture a
 
 ## Courses taught at DePaul University
 
-Students can [view their class websites on D2L](https://d2l.depaul.edu/). Course numbers link to course descriptions from the DePaul academic catalog.
+Course numbers in the table below link to descriptions from the DePaul academic catalog. Students can [view their class websites on D2L](https://d2l.depaul.edu/).
 
 | Term        | Course Number                                                | Course Name                                |
 | ----------- | ------------------------------------------------------------ | ------------------------------------------ |
