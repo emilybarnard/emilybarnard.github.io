@@ -94,6 +94,10 @@ a {
   &:hover, &:focus, &:active {
     color: $red;
   }
+  &:focus {
+    outline: solid 0.15rem $blue;
+    outline-offset: 0.2rem;
+  }
 }
 
 ul, ol {
