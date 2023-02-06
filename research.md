@@ -66,19 +66,19 @@ Paste the generated Markdown below, and edit as needed.
 Or, just add your publications using Markdown syntax below.
 -->
 
-1. "Cambrian combinatorics on quiver representations (type A)." (with E. Gunawan, E. Meehan, and R. Schiffler) *Adv. in Appl. Math.* 143 (2023), no. 102428. [arXiv:1912.02840][].
-2. "Pairwise Compatibility for 2-Simple Minded Collections II: Preprojective Algebras and Semibrick Pairs of Full Rank." (with E.J. Hanson) *Ann. Comb.* (2022). [arxiv: 2010.08645][].
-3. "Dynamical combinatorics and torsion classes." (with G. Todorov and S. Zhu) *J. Pure and Applied Algebra*, 25 (2021), no. 9. [arxiv: 1911.10712][].
-4. "Lattices from graph associahedra and subalgebras of the Malvenuto–Reutenauer algebra." (with T. McConville) *Algebra universalis* 82 (2021), no. 2. [arxiv: 1808.05670][].
+1. "Cambrian combinatorics on quiver representations (type A)." (with [E. Gunawan](https://egunawan.github.io/), [E. Meehan](https://wheatoncollege.edu/academics/faculty-directory/meehan-emily/), and [R. Schiffler](https://schiffler.math.uconn.edu/)) *Adv. in Appl. Math.* 143 (2023), no. 102428. [arXiv:1912.02840][].
+2. "Pairwise Compatibility for 2-Simple Minded Collections II: Preprojective Algebras and Semibrick Pairs of Full Rank." (with [E.J. Hanson](https://sites.google.com/view/erichanson/home)) *Ann. Comb.* (2022). [arxiv: 2010.08645][].
+3. "Dynamical combinatorics and torsion classes." (with [G. Todorov](https://gtodorov.sites.northeastern.edu/) and S. Zhu) *J. Pure and Applied Algebra*, 25 (2021), no. 9. [arxiv: 1911.10712][].
+4. "Lattices from graph associahedra and subalgebras of the Malvenuto–Reutenauer algebra." (with [T. McConville](https://facultyweb.kennesaw.edu/tmcconvi/)) *Algebra universalis* 82 (2021), no. 2. [arxiv: 1808.05670][].
 5. "The canonical join complex of the Tamari lattice." *J. Combinatorial Theory.* Series A (2020), 174.
-6. "Lattices from graph associahedra." (with T. McConville) *Sem. Lothar. Combin. proc.* **FPSAC** 2019
+6. "Lattices from graph associahedra." (with [T. McConville](https://facultyweb.kennesaw.edu/tmcconvi/)) *Sem. Lothar. Combin. proc.* **FPSAC** 2019
 7. “The canonical join complex.” *Electron. J. Combin.* (2019). [arxiv: 1610.05137][].
 8. “Minimal inclusions of torsion classes.” (with A. Carroll and S. Zhu.) *Algebraic Combin.* 2 (2019), no. 5, 879-901. [arxiv: 1710.08837][].
 9. “The canonical join complex of the Tamari lattice.” *Sem. Lothar. Combin. proc.* **FPSAC** 2018
-10. “Coxeter-biCatalan Combinatorics.” (with N. Reading) *J. Algebraic Combin.* 47 (2018), no. 2, 241–300. [arxiv: 1605.03524][].
-11. “Universal geometric coefficients for the four-punctured sphere.” (with E. Meehan, N. Reading, and S. Viel.) *Ann. Comb.* 22 (2018), no. 1, 1–44. [arxiv: 1602.03448][].
-12. “Coxeter-biCatalan Combinatorics.” (with N. Reading) *DMTCS Proceedings* **FPSAC** 2015 
-13. “Universal geometric coefficients for the four-punctured sphere.” (with E. Meehan, N. Reading, and S. Viel.) *DMTCS Proceedings* **FPSAC** 2015
+10. “Coxeter-biCatalan Combinatorics.” (with [N. Reading](https://nreadin.math.ncsu.edu/)) *J. Algebraic Combin.* 47 (2018), no. 2, 241–300. [arxiv: 1605.03524][].
+11. “Universal geometric coefficients for the four-punctured sphere.” (with [E. Meehan](https://wheatoncollege.edu/academics/faculty-directory/meehan-emily/), [N. Reading](https://nreadin.math.ncsu.edu/), and [S. Viel](https://services.math.duke.edu/~viel/).) *Ann. Comb.* 22 (2018), no. 1, 1–44. [arxiv: 1602.03448][].
+12. “Coxeter-biCatalan Combinatorics.” (with [N. Reading](https://nreadin.math.ncsu.edu/)) *DMTCS Proceedings* **FPSAC** 2015 
+13. “Universal geometric coefficients for the four-punctured sphere.” (with [E. Meehan](https://wheatoncollege.edu/academics/faculty-directory/meehan-emily/), [N. Reading](https://nreadin.math.ncsu.edu/), and [S. Viel](https://services.math.duke.edu/~viel/).) *DMTCS Proceedings* **FPSAC** 2015
 {: reversed="reversed"}
 
   [arXiv:1912.02840]: https://arxiv.org/abs/1912.02840
@@ -92,7 +92,7 @@ Or, just add your publications using Markdown syntax below.
   
 ## Preprints
 
-1. "Exceptional sequences in semidistributive lattices and the poset topology of wide subcategories." (with E.J. Hanson). Preprint [arXiv:2209.11734][].
+1. "Exceptional sequences in semidistributive lattices and the poset topology of wide subcategories." (with [E.J. Hanson](https://sites.google.com/view/erichanson/home)). Preprint [arXiv:2209.11734][].
 {: reversed="reversed"}
 
   [arXiv:2209.11734]: https://arxiv.org/abs/2209.11734
