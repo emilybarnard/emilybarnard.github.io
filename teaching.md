@@ -16,6 +16,8 @@ Course numbers in the table below link to descriptions from the DePaul academic 
 
 | Term        | Course Number                                                | Course Name                                |
 | ----------- | ------------------------------------------------------------ | ------------------------------------------ |
+| Spring 2023 | [MAT 130](https://catalog.depaul.edu/search/?search=mat+130) | Functions and Mathematical Models          |
+| Spring 2023 | [MAT 152](https://catalog.depaul.edu/search/?search=mat+152) | Calculus III                               |
 | Winter 2023 | [MAT 151](https://catalog.depaul.edu/search/?search=mat+151) | Calculus II                                |
 | Winter 2023 | [MAT 620](https://catalog.depaul.edu/search/?search=mat+620) | Geometry                                   |
 | Autumn 2022 | [MAT 150](https://catalog.depaul.edu/search/?search=mat+150) | Calculus I                                 |
