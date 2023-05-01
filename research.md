@@ -9,6 +9,7 @@ Skip to...
 - [Research Narrative](#research-narrative)
 - [Publications and Peer Reviewed Conference Proceedings](#publications-and-peer-reviewed-conference-proceedings)
 - [Preprints](#preprints)
+- [Presentations](#presentations)
 
 ## Research Interests
 
@@ -96,3 +97,50 @@ Or, just add your publications using Markdown syntax below.
 {: reversed="reversed"}
 
   [arXiv:2209.11734]: https://arxiv.org/abs/2209.11734
+
+## Presentations
+
+1. _Combinatorics of $\tau$-exceptional sequences_, University of Waterloo Combinatorics Algebraic and Enumerative Seminar --- Jan. 2023
+2. _Triangulations and maximal almost rigid representations_, Special Session on Representation Theory of Algebras, CMS Winter Meeting, Toronto, Canada --- Dec. 2022
+3. _New-biCambrian Lattices_, TACO Seminar, Loyola University --- Nov. 2022
+4. _New-biCambrian Lattices_, Algebraic Combinatorics Seminar, Universit\`e Gustave Eiffel, Paris --- Sept. 2022
+5. _Dynamics and Topology of Lattice Posets Related to the Weak Order_, Discrete Math Seminar, IIT --- Oct. 2022
+6. _Kappa-Rowmotion for Semidistributive Lattices_, Dynamical Algebraic Combinatorics Workshop, UBC Okanagan, Canada --- Nov. 2021   
+7. _Fundamentally Semidistributive Lattices_, UMass Lowell Math Department Colloquium (Online) --- Oct. 2021
+8. _Invited Course Teacher - Tamari Lattices and Posets_, Summer School in Algebraic Combinatorics, Universit\'e du Qu\'ebec \`a Montr\'eal --- June 2021
+9. _Pairwise completability for 2-Simple minded collections_, Minisymposium on Flow Polytopes of Graphs, CanaDAM 2021 --- May 2021
+10. _Pairwise completability for 2-Simple minded collections_, Special Session on Algebraic and Combinatorial Aspects of Polytopes, AMS Spring Sectional Meeting, San Francisco State University --- April 2021
+11. _The Kreweras Complement on the Lattice of Torsion Classes_, Dynamical Algebraic Combinatorics Virtual Workshop, BIRS, Alberta, Canada --- Oct. 2020
+12. _Pairwise completability for 2-Simple minded collections_, Discrete CATS Seminar, University of Kentucky (Online) --- March 2021
+13. _Cover Relations in the Lattice of Torsion Classes: Dynamics and Completability_, Online seminar on representation theory of finite-dimensional algebra --- Feb. 2021
+14. _The Kreweras Complement on the Lattice of Torsion Classes_, 30th Meeting on Representation Theory of Algebras,  Universit\'e de Sherbrooke, Sherbrooke, Qu\'ebec, Canada --- Sept. 2020
+15. _Graph Associahedra and the Poset of Maximal Tubings_, Combinatorics Seminar, University of Michigan, Ann Arbor, MI --- Oct. 2019
+16. _Graph Associahedra and the Poset of Maximal Tubings_, Algebra and Combinatorics Seminar, Loyola University, Chicago, IL --- Sept. 2019
+17. _Graph Associahedra and the Poset of Maximal Tubings_, FPSAC, University of Ljubljana, Slovenia --- July 2019
+18. _Graph Associahedra and the Poset of Maximal Tubings_, CanaDAM, Vancouver, British Columbia, Canada --- May 2019
+19. _Graph Associahedra and the Poset of Maximal Tubings_, Discrete Math Seminar, University of Massachusetts, Amherst, MA --- April 2019 
+20. _Graph Associahedra and the Poset of Maximal Tubings_, Special Session on Cluster Algebras and Related Topics, AMS Spring Sectional Meeting, University of Connecticut, Hartford, CT --- Feb. 2019
+21. _Graph Associahedra and the Poset of Maximal Tubings_, Combinatorics Seminar, Universit\'e du Qu\'ebec \`a Montr\'eal, Montr\'eal, QC --- Feb. 2019
+22. _The combinatorics of torsion classes_, Special Session on Representation Theory of Algebras, CMS Summer Meeting, Fredericton, New Brunswick, Canada --- June 2018
+23. _Graph Associahedra and the Poset of Maximal Tubings_, Algebra and Combinatorics Seminar, NC State University, Raleigh, NC --- May 2018
+24. _The combinatorics of torsion classes_, Special Session on Noncommutative Algebra and Representation Theory, AMS Spring Sectional Meeting, Northeastern University, Boston, MA --- May 2018    
+25. _Graph Associahedra and the Poset of Maximal Tubings_, Special Session on Algebraic, Geometric, and Topological Methods in Combinatorics, AMS Spring Sectional Meeting, Northeastern University, Boston, MA --- April 2018
+26. _The biCatalan Kreweras Complement_, Special Session on Dynamical Algebraic Combinatorics, Joint Mathematics Meetings, San Diego, CA --- Jan. 2018
+27. _The combinatorics of torsion classes_, Cluster Algebra Seminar, University of Connecticut, Storrs, CT --- Dec. 2017
+28. _The combinatorics of torsion classes_, Geometry-Algebra-Singularities-Combinatorics Seminar, Northeastern University, Boston, MA --- 2017
+29. _Counting and the canonical join representation_, Pick My Brain Seminar, Northeastern University, Boston, MA --- 2017
+30. _The canonical join complex of the Tamari lattice_, Algebraic Combinatorixx 2 Workshop, BIRS, Alberta, Canada --- 2017
+31. _Quick Fire Talk: The canonical join complex_, Connections for Women: Geometric and Topological Combinatorics, MSRI --- 2017
+32. _The canonical join complex_, Combinatorics Seminar, Massachusetts Institute of Technology, Cambridge, MA --- 2017
+33. _The canonical join complex_, Representation Theory Seminar, Northeastern University, Boston, MA --- 2017
+34. _The canonical join complex_, Special Session Algebraic and Enumerative Combinatorics, AMS Fall Sectional Meeting, Bowdoin College, Brunswick, ME --- 2016
+35. _The canonical join complex_, Maurice Auslander Distinguished Lectures and International Conference, Woods Hole Oceanographic Institution, Quissett Campus, Woods Hole, MA --- 2016
+36. _Coxeter-biCatalan Combinatorics_, Combinatorics Seminar, University of Michigan, Ann Arbor, MI --- 2015
+37. _Coxeter-biCatalan Combinatorics_, Combinatorics Seminar, University of Minnesota, Minneapolis, MN --- 2015
+38. _Coxeter-biCatalan Combinatorics_, Algebra and Combinatorics Seminar, NC State University, Raleigh, NC --- 2015
+39. _Coxeter-biCatalan Combinatorics_, Algebra and Combinatorics Seminar, DePaul University,  Chicago, IL --- 2015
+40. _Coxeter-biCatalan Combinatorics_, Combinatorics Seminar, Universit\'e du Qu\'ebec \`a Montr\'eal, Montr\'eal, QC --- 2015
+41. _Coxeter-biCatalan Combinatorics_, FPSAC, Korea Advanced Institute of Science and Technology, Daejeon, South Korea --- 2015
+42. _Coxeter-biCatalan Combinatorics_, Special Session on Cluster Algebras, Joint Mathematics Meetings, San Antonio, TX --- 2015
+{: reversed="reversed"}
+
