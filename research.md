@@ -93,9 +93,11 @@ Or, just add your publications using Markdown syntax below.
   
 ## Preprints
 
-1. "Exceptional sequences in semidistributive lattices and the poset topology of wide subcategories." (with [E.J. Hanson](https://sites.google.com/view/erichanson/home)). Preprint [arXiv:2209.11734][].
+1. "Pop-Stack Operators for Torsion Classes and Cambrian Lattices." (with C. Defant and [E.J. Hanson](https://sites.google.com/view/erichanson/home)). Preprint [arXiv:2312.03959][].
+2. "Exceptional sequences in semidistributive lattices and the poset topology of wide subcategories." (with [E.J. Hanson](https://sites.google.com/view/erichanson/home)). Preprint [arXiv:2209.11734][].
 {: reversed="reversed"}
 
+  [arXiv:2312.03959]: https://arxiv.org/abs/2312.03959
   [arXiv:2209.11734]: https://arxiv.org/abs/2209.11734
 
 ## Presentations
