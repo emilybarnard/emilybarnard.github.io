@@ -30,13 +30,13 @@ The type of answer we expect from the second question is a little more complicat
   \begin{tikzpicture}
    %\draw[help lines] (-3,-3) grid (5,5);
    \node [below] at (0,0) {Empty Set};
-    \node [above, left] at (-2,1.01) {$\{1\}$};
-     \node [above] at (0,.85) {"$\{2\}$"};
-      \node [above, right] at (2,1.01) {$\{3\}$};
-      \node [above] at (-1.5,1.75) {$\{1,2\}$};
-      \node [above] at (1.5,1.75) {$\{2,3\}$};
-      \node [above] at (0,1.83) {$\{1,3\}$};
-       \node[above] at (0,3) {$\{1,2,3\}$};
+    \node [above, left] at (-2,1.01) {1};
+     \node [above] at (0,.85) {2};
+      \node [above, right] at (2,1.01) {3};
+      \node [above] at (-1.5,1.75) {1,2};
+      \node [above] at (1.5,1.75) {2,3};
+      \node [above] at (0,1.83) {1,3};
+       \node[above] at (0,3) {1,2,3};
        \node[above] at (0,-2) {Figure 1. A poset.};
   \draw (0,0) --(-2,1);
   \draw (0,0) --(2,1);
