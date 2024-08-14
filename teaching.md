@@ -16,6 +16,8 @@ Course numbers in the table below link to descriptions from the DePaul academic 
 
 | Term        | Course Number                                                | Course Name                                |
 | ----------- | ------------------------------------------------------------ | ------------------------------------------ |
+| Autumn 2024 | [MAT 150](https://catalog.depaul.edu/search/?search=mat+150) | Calculus I                                 |
+| Autumn 2024 | [MAT 320](https://catalog.depaul.edu/search/?search=mat+320) | Geometry I                                 |
 | Spring 2024 | [MAT 131](https://catalog.depaul.edu/search/?search=mat+131) | Precalculus and Trigonometry               |
 | Spring 2024 | [MAT 151](https://catalog.depaul.edu/search/?search=mat+151) | Calculus II                                |
 | Winter 2024 | [MAT 141](https://catalog.depaul.edu/search/?search=mat+141) | Discrete Mathematics II                    |
