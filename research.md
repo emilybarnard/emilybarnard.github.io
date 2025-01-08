@@ -93,9 +93,9 @@ Or, just add your publications using Markdown syntax below.
   
 ## Preprints
 
-1. "Pop-Stack Operators for Torsion Classes and Cambrian Lattices." (with [C. Defant](https://sites.google.com/view/colin-defant/home) and [E.J. Hanson](https://sites.google.com/view/erichanson/home)). Preprint [arXiv:2312.03959][].
-2. "Exceptional sequences in semidistributive lattices and the poset topology of wide subcategories." (with [E.J. Hanson](https://sites.google.com/view/erichanson/home)). Preprint [arXiv:2209.11734][].
-3. "Maximal almost rigid modules over gentle algebra." (with [R. Coehlo Simoes](https://www.lancaster.ac.uk/maths/people/raquel-coelho-guardado-simoes), [E. Gunawan](https://egunawan.github.io/), and [R. Schiffler](https://schiffler.math.uconn.edu/). Preprint [arXiv:2408.16904][].
+1. "Maximal almost rigid modules over gentle algebra." (with [R. Coehlo Simoes](https://www.lancaster.ac.uk/maths/people/raquel-coelho-guardado-simoes), [E. Gunawan](https://egunawan.github.io/), and [R. Schiffler](https://schiffler.math.uconn.edu/). Preprint [arXiv:2408.16904][].
+2. "Pop-Stack Operators for Torsion Classes and Cambrian Lattices." (with [C. Defant](https://sites.google.com/view/colin-defant/home) and [E.J. Hanson](https://sites.google.com/view/erichanson/home)). Preprint [arXiv:2312.03959][].
+3. "Exceptional sequences in semidistributive lattices and the poset topology of wide subcategories." (with [E.J. Hanson](https://sites.google.com/view/erichanson/home)). Preprint [arXiv:2209.11734][].
 {: reversed="reversed"}
 
   [arXiv:2312.03959]: https://arxiv.org/abs/2312.03959
