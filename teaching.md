@@ -16,6 +16,8 @@ Course numbers in the table below link to descriptions from the DePaul academic 
 
 | Term        | Course Number                                                | Course Name                                |
 | ----------- | ------------------------------------------------------------ | ------------------------------------------ |
+| Spring 2025 | [MAT 150](https://catalog.depaul.edu/search/?search=mat+150) | Calculus I                                 |
+| Spring 2025 | [MAT 151](https://catalog.depaul.edu/search/?search=mat+151) | Calculus II                                |
 | Winter 2025 | [MAT 302](https://catalog.depaul.edu/search/?search=mat+302) | Combinatorics                              |
 | Winter 2025 | [MAT 620](https://catalog.depaul.edu/search/?search=mat+620) | Geometry                                   |
 | Autumn 2024 | [MAT 150](https://catalog.depaul.edu/search/?search=mat+150) | Calculus I                                 |
