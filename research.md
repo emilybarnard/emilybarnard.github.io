@@ -93,14 +93,18 @@ Or, just add your publications using Markdown syntax below.
   
 ## Preprints
 
-1. "Maximal almost rigid modules over gentle algebra." (with [R. Coehlo Simoes](https://www.lancaster.ac.uk/maths/people/raquel-coelho-guardado-simoes), [E. Gunawan](https://egunawan.github.io/), and [R. Schiffler](https://schiffler.math.uconn.edu/)). Preprint [arXiv:2408.16904][].
-2. "Pop-Stack Operators for Torsion Classes and Cambrian Lattices." (with [C. Defant](https://sites.google.com/view/colin-defant/home) and [E.J. Hanson](https://sites.google.com/view/erichanson/home)). Preprint [arXiv:2312.03959][].
-3. "Exceptional sequences in semidistributive lattices and the poset topology of wide subcategories." (with [E.J. Hanson](https://sites.google.com/view/erichanson/home)). Preprint [arXiv:2209.11734][].
+1. "Noncrossing arc diagrams of type B." (with [N. Reading](https://nreadin.math.ncsu.edu/) and [A.M. Tharp](https://www.ashleymtharp.com/)). Preprint [arXiv:2504.14393][].
+2. "Separating trees and simple congruences of the weak order." (with [J. Novelli](https://igm.univ-mlv.fr/~novelli/) and [V. Pilaud](https://www.ub.edu/comb/vincentpilaud/)). Preprint [arXiv:2503.15053][].
+3. "Maximal almost rigid modules over gentle algebra." (with [R. Coehlo Simoes](https://www.lancaster.ac.uk/maths/people/raquel-coelho-guardado-simoes), [E. Gunawan](https://egunawan.github.io/), and [R. Schiffler](https://schiffler.math.uconn.edu/)). Preprint [arXiv:2408.16904][].
+4. "Pop-Stack Operators for Torsion Classes and Cambrian Lattices." (with [C. Defant](https://sites.google.com/view/colin-defant/home) and [E.J. Hanson](https://sites.google.com/view/erichanson/home)). Preprint [arXiv:2312.03959][].
+5. "Exceptional sequences in semidistributive lattices and the poset topology of wide subcategories." (with [E.J. Hanson](https://sites.google.com/view/erichanson/home)). Preprint [arXiv:2209.11734][].
 {: reversed="reversed"}
 
   [arXiv:2312.03959]: https://arxiv.org/abs/2312.03959
   [arXiv:2209.11734]: https://arxiv.org/abs/2209.11734
   [arXiv:2408.16904]: https://arxiv.org/abs/2408.16904
+  [arXiv:2503.15053]: https://arxiv.org/abs/2503.15053
+  [arXiv:2504.14393]: https://arxiv.org/abs/2504.14393
 
 ## Presentations
 
