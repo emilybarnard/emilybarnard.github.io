@@ -9,8 +9,8 @@ I am an Assistant Professor at [DePaul University](https://depaul.edu) in the [D
 
 ## Employment
 
-- **Associate Professor - DePaul University**
-Department of Mathematical Sciences
+- **Associate Professor - DePaul University**  
+Department of Mathematical Sciences  
 2025 to Present - Chicago, IL
 - **Assistant Professor - DePaul University**  
 Department of Mathematical Sciences  
