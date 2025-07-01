@@ -9,9 +9,12 @@ I am an Assistant Professor at [DePaul University](https://depaul.edu) in the [D
 
 ## Employment
 
+- **Associate Professor - DePaul University**
+Department of Mathematical Sciences
+2025 to Present - Chicago, IL
 - **Assistant Professor - DePaul University**  
 Department of Mathematical Sciences  
-2019 to Present - Chicago, IL
+2019 to 2025 - Chicago, IL
 - **Zelevinsky Research Instructor - Northeastern University**  
 Department of Mathematics  
 2017 to 2019 - Boston, MA
