@@ -16,6 +16,8 @@ Course numbers in the table below link to descriptions from the DePaul academic 
 
 | Term        | Course Number                                                | Course Name                                |
 | ----------- | ------------------------------------------------------------ | ------------------------------------------ |
+| Winter 2026 | [MAT 101](https://catalog.depaul.edu/search/?search=mat+101) | Intermediate Algebra                       |
+| Winter 2026 | [MAT 150](https://catalog.depaul.edu/search/?search=mat+150) | Calculus I                                 |
 | Autumn 2025 | [MAT 151](https://catalog.depaul.edu/search/?search=mat+151) | Calculus II                                |
 | Autumn 2025 | [MAT 320](https://catalog.depaul.edu/search/?search=mat+320) | Geometry I                                 |
 | Spring 2025 | [MAT 150](https://catalog.depaul.edu/search/?search=mat+150) | Calculus I                                 |
