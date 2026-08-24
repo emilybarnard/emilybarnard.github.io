@@ -5,9 +5,9 @@ permalink: /teaching/
 ---
 
 My teaching style is heavily influenced by my scholarship in algebraic combinatorics and my personality.
-As a reseacher, I am highly collaborative; many of my insights and accomplishments have come from group dsicussion.
+As a reseacher, I am highly collaborative; many of my insights and accomplishments have come from group discussion.
 But equally important is productive failure---describing and understanding those ideas that don't work.
-As I approach teaching, I often look to recreate my experiences in *respectful* and productive research envirnoments.
+As I approach teaching, I often look to recreate my experiences in *respectful* and productive research environments.
 After years of experiencing my own math-anxiety, I frame my class architecture around building trust and community. 
 
 ## Courses taught at DePaul University
@@ -16,6 +16,8 @@ Course numbers in the table below link to descriptions from the DePaul academic 
 
 | Term        | Course Number                                                | Course Name                                |
 | ----------- | ------------------------------------------------------------ | ------------------------------------------ |
+| Autumn 2026 | [MAT 130](https://catalog.depaul.edu/search/?search=mat+130) | Functions and Mathematical Models          |
+| Autumn 2026 | [MAT 152](https://catalog.depaul.edu/search/?search=mat+152) | Calculus III                               |
 | Spring 2026 | [MAT 130](https://catalog.depaul.edu/search/?search=mat+130) | Functions and Mathematical Models          |
 | Spring 2026 | [MAT 151](https://catalog.depaul.edu/search/?search=mat+151) | Calculus II                                |
 | Winter 2026 | [MAT 101](https://catalog.depaul.edu/search/?search=mat+101) | Intermediate Algebra                       |
